@@ -36,5 +36,8 @@ footer {
   align-items: center;
   background-color: #d3cdb5;
 }
+#about p {
+  text-align: center;
+}
 
 /*# sourceMappingURL=aboutme.css.map */

@@ -16,4 +16,8 @@ $main_back_color: #d3cdb5;
     justify-items: center;
     align-items: center;
     background-color: $main_back_color;
+
+    p {
+        text-align: center;
+    }
 }
