@@ -10,21 +10,10 @@ $main_back_color: #d3cdb5;
     font-family: sans-serif;
 }
 
-main {
+#about {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
     justify-items: center;
     align-items: center;
     background-color: $main_back_color;
-
-    & h2 {
-        text-align: center;
-        color: $main_font_color;
-    }
-
-    & p {
-        text-align: center;
-        color: $main_font_color;
-    }
-
 }

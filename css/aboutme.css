@@ -29,20 +29,12 @@ footer {
   font-family: sans-serif;
 }
 
-main {
+#about {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr;
   justify-items: center;
   align-items: center;
   background-color: #d3cdb5;
 }
-main h2 {
-  text-align: center;
-  color: #2b2b2b;
-}
-main p {
-  text-align: center;
-  color: #2b2b2b;
-}
 
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=aboutme.css.map */
